@@ -1,0 +1,1 @@
+A Simple slideshow app that changing the img every 2 seconds .
